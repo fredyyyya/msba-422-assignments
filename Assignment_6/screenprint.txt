@@ -1,0 +1,117 @@
+422 - Assignment 6 - Terminal Output
+
+---------------- Question 1 -----------------------
+
+shaolongxue@Shaolongs-MacBook-Pro Assignment_6 %  cd /Users/shaolongxue/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_6 ; /usr/bin/env /usr/local/bin/py
+thon3 /Users/shaolongxue/.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50060 -- /Users/shaolongx
+ue/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_6/shaolongfredxue_source.py 
+{'_id': ObjectId('58f56171ee9d4bd5e610d645'), 'name': 'Ivysaur'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d648'), 'name': 'Charmeleon'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d64b'), 'name': 'Wartortle'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d64e'), 'name': 'Metapod'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d651'), 'name': 'Kakuna'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d654'), 'name': 'Pidgeotto'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d658'), 'name': 'Spearow'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d65a'), 'name': 'Ekans'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d65c'), 'name': 'Pikachu'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d65e'), 'name': 'Sandshrew'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d661'), 'name': 'Nidorina'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d664'), 'name': 'Nidorino'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d666'), 'name': 'Clefairy'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d668'), 'name': 'Vulpix'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d66a'), 'name': 'Jigglypuff'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d66c'), 'name': 'Zubat'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d66f'), 'name': 'Gloom'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d671'), 'name': 'Paras'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d673'), 'name': 'Venonat'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d675'), 'name': 'Diglett'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d677'), 'name': 'Meowth'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d679'), 'name': 'Psyduck'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d67b'), 'name': 'Mankey'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d67d'), 'name': 'Growlithe'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d680'), 'name': 'Poliwhirl'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d683'), 'name': 'Kadabra'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d686'), 'name': 'Machoke'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d689'), 'name': 'Weepinbell'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d68b'), 'name': 'Tentacool'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d68e'), 'name': 'Graveler'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d690'), 'name': 'Ponyta'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d692'), 'name': 'Slowpoke'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d694'), 'name': 'Magnemite'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d697'), 'name': 'Doduo'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d699'), 'name': 'Seel'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d69b'), 'name': 'Grimer'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d69d'), 'name': 'Shellder'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6a0'), 'name': 'Haunter'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6a3'), 'name': 'Drowzee'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6a5'), 'name': 'Krabby'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6a7'), 'name': 'Voltorb'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6a9'), 'name': 'Exeggcute'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6ab'), 'name': 'Cubone'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6b0'), 'name': 'Koffing'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6b2'), 'name': 'Rhyhorn'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6b7'), 'name': 'Horsea'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6b9'), 'name': 'Goldeen'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6bb'), 'name': 'Staryu'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6c4'), 'name': 'Magikarp'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6cd'), 'name': 'Omanyte'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6cf'), 'name': 'Kabuto'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d6d7'), 'name': 'Dragonair'}
+
+---------------- Question 2 -----------------------
+
+shaolongxue@Shaolongs-MacBook-Pro Assignment_6 %  cd /Users/shaolongxu
+e/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_6 ; /usr/bin/env 
+/usr/local/bin/python3 /Users/shaolongxue/.vscode/extensions/ms-python
+.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/
+launcher 50370 -- /Users/shaolongxue/Documents/MSBA/2_Winter_Quarter/4
+22_DDR/Assignment_6/shaolongfredxue_source.py 
+{'_id': ObjectId('58f56171ee9d4bd5e610d649'), 'name': 'Charizard'}
+{'_id': ObjectId('58f56171ee9d4bd5e610d661'), 'name': 'Nidorina'}
+
+---------------- Question 3 -----------------------
+
+shaolongxue@Shaolongs-MacBook-Pro Assignment_6 %  cd /Users/shaolongxu
+e/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_6 ; /usr/bin/env 
+/usr/local/bin/python3 /Users/shaolongxue/.vscode/extensions/ms-python
+.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/
+launcher 50583 -- /Users/shaolongxue/Documents/MSBA/2_Winter_Quarter/4
+22_DDR/Assignment_6/shaolongfredxue_source.py 
+{'_id': ObjectId('52cdef7d4bab8bd675298ed4'), 'name': 'Textic'}
+{'_id': ObjectId('52cdef7e4bab8bd67529ba46'), 'name': 'My Text Secret'}
+{'_id': ObjectId('52cdef7c4bab8bd67529853c'), 'name': 'kwiry'}
+{'_id': ObjectId('52cdef7e4bab8bd67529ad45'), 'name': 'Ayna Corporation'}
+{'_id': ObjectId('52cdef7d4bab8bd67529950c'), 'name': 'Cycorp'}
+{'_id': ObjectId('52cdef7e4bab8bd67529a582'), 'name': 'Zeraphina'}
+
+---------------- Question 4 -----------------------
+
+shaolongxue@Shaolongs-MacBook-Pro Assignment_6 %  cd /Users/shaolongxu
+e/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_6 ; /usr/bin/env 
+/usr/local/bin/python3 /Users/shaolongxue/.vscode/extensions/ms-python
+.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/
+launcher 50812 -- /Users/shaolongxue/Documents/MSBA/2_Winter_Quarter/4
+22_DDR/Assignment_6/shaolongfredxue_source.py 
+{'_id': ObjectId('52cdef7e4bab8bd67529a3ae'), 'name': 'ZipWeb', 'twitter_username': None}
+{'_id': ObjectId('52cdef7f4bab8bd67529c007'), 'name': 'Delhitoagra', 'twitter_username': 'delhitoagra'}
+{'_id': ObjectId('52cdef7d4bab8bd675298ab5'), 'name': 'Dizzot', 'twitter_username': None}
+{'_id': ObjectId('52cdef7e4bab8bd67529bb91'), 'name': 'Weopia', 'twitter_username': 'weopia'}
+{'_id': ObjectId('52cdef7f4bab8bd67529c682'), 'name': 'Meeho!', 'twitter_username': 'meehohq'}
+{'_id': ObjectId('52cdef7e4bab8bd67529a867'), 'name': 'A2zdesignwork', 'twitter_username': 'A2zdesignwork'}
+{'_id': ObjectId('52cdef7e4bab8bd67529b1d1'), 'name': 'Payday advances', 'twitter_username': None}
+{'_id': ObjectId('52cdef7f4bab8bd67529c091'), 'name': 'Generous Gems Jewelry', 'twitter_username': ''}
+{'_id': ObjectId('52cdef7d4bab8bd675299cd4'), 'name': 'newbridgetown', 'twitter_username': None}
+{'_id': ObjectId('52cdef7e4bab8bd67529a541'), 'name': 'SingleMommyHood', 'twitter_username': 'singlemomseekin'}
+{'_id': ObjectId('52cdef7e4bab8bd67529b6f3'), 'name': 'watercompare', 'twitter_username': None}
+{'_id': ObjectId('52cdef7d4bab8bd675298a3e'), 'name': 'SEO Workers', 'twitter_username': 'seoworkers'}
+{'_id': ObjectId('52cdef7f4bab8bd67529c0df'), 'name': 'THiNKmedia', 'twitter_username': ''}
+{'_id': ObjectId('52cdef7e4bab8bd67529b2aa'), 'name': 'PricingWire', 'twitter_username': None}
+{'_id': ObjectId('52cdef7d4bab8bd675298b5d'), 'name': 'ExpertsYard', 'twitter_username': None}
+{'_id': ObjectId('52cdef7d4bab8bd675298e40'), 'name': 'Flex2go', 'twitter_username': None}
+{'_id': ObjectId('52cdef7d4bab8bd675298c10'), 'name': 'OhDontForget', 'twitter_username': None}
+{'_id': ObjectId('52cdef7d4bab8bd675299202'), 'name': 'Rock Entertainment', 'twitter_username': None}
+{'_id': ObjectId('52cdef7d4bab8bd6752998c3'), 'name': 'GeekTech', 'twitter_username': None}
+{'_id': ObjectId('52cdef7e4bab8bd67529b52b'), 'name': 'Ashe Media Holdings', 'twitter_username': ''}
+{'_id': ObjectId('52cdef7e4bab8bd67529aba9'), 'name': 'USFINANCIALFREEDOM', 'twitter_username': None}
+{'_id': ObjectId('52cdef7d4bab8bd67529a0e8'), 'name': 'Mega Yellow', 'twitter_username': None}
+{'_id': ObjectId('52cdef7e4bab8bd67529ab77'), 'name': 'SaveTable', 'twitter_username': None}

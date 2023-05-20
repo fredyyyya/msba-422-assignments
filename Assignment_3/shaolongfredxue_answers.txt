@@ -1,0 +1,7 @@
+452 Assignment 3 - Text File Part
+
+1.  Navigated to B&N Top 100. The url is: https://www.barnesandnoble.com/b/books/_/N-1fZ29Z8q8 
+2.  Navigated to the next page. The url changes to: https://www.barnesandnoble.com/b/books/_/N-1fZ29Z8q8?Nrpp=20&page=2
+3.  There is a part of the url that represents the page number: "page=". Another part of the url 'Nrpp=' indicates the number of items per page. 
+4.  Modified url is: https://www.barnesandnoble.com/b/books/_/N-1fZ29Z8q8?Nrpp=40&page=1. 
+    We can access each book's produce page by identifying a unique ID or class name that includes the url info of all products.       From a quick look, it looks like a div class "product-shelf-image product-image " and "product-info-title" both contains this     information on all 40 products displayed in the page. I'll use one of these classes to select just the url of the books.           However, this is only partial url. I'll need to append the parent url of the Barnes&Noble website to each one. 

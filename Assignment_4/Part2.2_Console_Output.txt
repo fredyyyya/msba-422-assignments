@@ -1,0 +1,8 @@
+# 452 - Assignment 4 - Part 2.2 Terminal Output
+
+shaolongxue@Shaolongs-MacBook-Pro ~ % /usr/local/bin/python3 /Users/shaolongxue/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_4/part2_source.py
+/Users/shaolongxue/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_4/part2_source.py:12: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=path)
+Countdown
+23hours:26minutes:41seconds
+shaolongxue@Shaolongs-MacBook-Pro ~ % 

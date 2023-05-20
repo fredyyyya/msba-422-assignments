@@ -1,0 +1,614 @@
+### 452 - Assignment 4 - Part 1 Screen Print
+
+shaolongxue@Shaolongs-MacBook-Pro ~ % /usr/local/bin/python3 /Users/shaolongxue/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_4/part1_source.py
+Old Cookies:
+{'__psuid': '0034dc60615dbeab9c8fe7be24289523', 'ps_sessid': 'FVZgagW7rC8rSBn0qfJq1izfcG'}
+New Cookies:
+{'__psuid': '0034dc60615dbeab9c8fe7be24289523', 'ps_sessid': 'p7qJCVZr8qGwiO5GogMGYykybu'}
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   My Profile
+  </title>
+  <meta content="width=1080" name="viewport"/>
+  <meta content="ie=edge" http-equiv="x-ua-compatible"/>
+  <link href="/favicon.ico" rel="shortcut icon"/>
+  <link href="/favicon_16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/favicon_64.png" rel="icon" sizes="64x64" type="image/png"/>
+  <link href="/favicon_196.png" rel="icon" sizes="196x196" type="image/png"/>
+  <link href="/favicon.svg" rel="icon" sizes="any" type="image/svg+xml"/>
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link color="#1e2837" href="/static/img/safari-pinned-tab.svg" rel="mask-icon"/>
+  <meta content="Planespotters" name="application-name"/>
+  <meta content="#1e2837" name="theme-color"/>
+  <link href="/site.webmanifest" rel="manifest"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-NMJZKP0929">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('consent', 'default', {
+                'ad_storage': 'denied',
+                'analytics_storage': 'denied',
+                'wait_for_update': 1500 //milliseconds
+        });
+        gtag('set', 'ads_data_redaction', true);
+        gtag('js', new Date());
+        gtag('config', 'G-NMJZKP0929', { 'anonymize_ip': true });
+  </script>
+  <script async="async" src="https://cdn-a.yieldlove.com/v2/yieldlove.js?planespotters.net">
+  </script>
+  <link href="https://static4.planespotters.net/css/theme-4c730e4d48.min.css" rel="stylesheet" type="text/css">
+   <script src="https://static4.planespotters.net/js/planespotters-2e9a2d4db4.min.js">
+   </script>
+  </link>
+ </head>
+ <body class="bootstrap">
+  <header class="page__header">
+   <nav class="header__menu">
+    <a class="header__logo" href="/" name="top">
+    </a>
+    <ul>
+     <li class="submenu">
+      <a href="/photo/search">
+       Photos
+      </a>
+      <ul>
+       <li>
+        <a href="/photos/latest">
+         Latest Additions
+        </a>
+       </li>
+       <li>
+        <a href="/photos/popular">
+         Most Popular
+        </a>
+       </li>
+       <li>
+        <a href="/photos/editorsChoice">
+         Editor's Choice
+        </a>
+       </li>
+       <li>
+        <a href="/photos/favorited">
+         User Favorites
+        </a>
+       </li>
+       <li>
+        <a href="/photos">
+         Photo Search
+        </a>
+       </li>
+       <li class="divider">
+       </li>
+       <li>
+        <a href="/photo/upload">
+         Upload Your Photos
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="submenu">
+      <a href="/production-list/index">
+       Aircraft
+      </a>
+      <ul>
+       <li>
+        <a href="/production-list/index">
+         Production Lists
+        </a>
+       </li>
+       <li>
+        <a href="/deliveries">
+         Latest Deliveries
+        </a>
+       </li>
+       <li class="divider">
+       </li>
+       <li>
+        <a href="/special/boeing-737-max-grounding">
+         Boeing 737 MAX Special
+        </a>
+       </li>
+       <li>
+        <a href="/special/boeing-787">
+         Boeing 787 Special
+        </a>
+       </li>
+       <li>
+        <a href="/special/an225">
+         Antonov An-225 Tribute
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="submenu">
+      <a href="/airlines">
+       Airlines
+      </a>
+      <ul>
+       <li>
+        <a href="/airlines">
+         Airline Index
+        </a>
+       </li>
+       <li>
+        <a href="/airlines/country">
+         Airlines by Country
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <form accept-charset="utf-8" action="/search" class="page__header_search" method="get">
+     <input autocomplete="off" id="q" name="q" type="text"/>
+     <button type="submit">
+      <i class="fa fa-search">
+      </i>
+     </button>
+    </form>
+    <ul>
+     <li class="submenu submenu-left">
+      <a class="header__menu_profile_icon" href="/member/profile">
+       <i class="fa fa-user-o">
+       </i>
+      </a>
+      <ul>
+       <li>
+        <a href="/member/profile">
+         Profile
+        </a>
+       </li>
+       <li>
+        <a href="/member/profile/settings">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a class="" href="/member/photo/screening">
+         Screening Info
+        </a>
+       </li>
+       <li>
+        <a href="/member/photo/stats">
+         Photo Stats
+        </a>
+       </li>
+       <li>
+        <a href="/photos/favorites">
+         My Favorites
+        </a>
+       </li>
+       <li>
+        <a href="/photos/gallery/HalaMadrid">
+         Personal Gallery
+        </a>
+       </li>
+       <li class="divider">
+       </li>
+       <li>
+        <a href="/user/logout">
+         Log Out
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </nav>
+  </header>
+  <main class="" id="content">
+   <div class="container950 padding-vertical-30">
+    <div class="flex-row">
+     <div class="flex-column flex-300">
+      <div class="margin-30 text-center">
+       <img class="user__profile_picture" height="200" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23cccccc%22%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22550%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Open%20Sans%2C%20Verdana%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fsvg%3E" width="200"/>
+      </div>
+      <div style="width: 200px; margin-left: auto; margin-right: auto;">
+       <a class="btn btn-flat-default-new btn-md btn-display-block member_profile__photo_upload" href="/member/profile/photo">
+        <i class="fa fa-upload">
+        </i>
+        Upload New Image
+       </a>
+      </div>
+     </div>
+     <div class="flex-column">
+      <h1 class="headline-spacer">
+       Profile
+      </h1>
+      <table class="table-light">
+       <tr>
+        <th>
+         Name
+        </th>
+        <td>
+         Player NumberTen
+        </td>
+        <td>
+         <a class="btn btn-flat-default btn-xs" href="/member/profile/name">
+          <i class="fa fa-pencil">
+          </i>
+          Edit
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         Username
+        </th>
+        <td>
+         HalaMadrid
+        </td>
+        <td>
+         <a class="btn btn-flat-default btn-xs" href="/member/profile/username">
+          <i class="fa fa-pencil">
+          </i>
+          Edit
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         E-Mail
+        </th>
+        <td>
+         fredxsl@hotmail.com
+        </td>
+        <td>
+         <a class="btn btn-flat-default btn-xs" href="/member/profile/email">
+          <i class="fa fa-pencil">
+          </i>
+          Edit
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         Member since
+        </th>
+        <td>
+         10 February 2023
+        </td>
+        <td>
+        </td>
+       </tr>
+      </table>
+      <div class="margin-30">
+       <h6 class="heading-new-muted text-uppercase">
+        Password
+       </h6>
+       <a class="btn btn-flat-default-new btn-md" href="/member/profile/password">
+        Change Password
+       </a>
+      </div>
+      <div class="margin-30">
+       <h6 class="heading-new-muted text-uppercase">
+        Settings
+       </h6>
+       <a class="btn btn-flat-default-new btn-md" href="/member/profile/settings">
+        <i class="fa fa-cog">
+        </i>
+        View Settings
+       </a>
+      </div>
+      <h1 class="headline-spacer margin">
+       Photos
+      </h1>
+      <div class="padding-20 flex-row">
+       <div class="flex-column stats-box text-center">
+        <h4>
+         <a data-toggle="tooltip" href="/photos/gallery/HalaMadrid" title="0 Photos online">
+          <i class="fa fa-camera">
+          </i>
+          0
+         </a>
+        </h4>
+       </div>
+       <div class="flex-column stats-box text-center">
+        <h4>
+         <a data-toggle="tooltip" href="/member/photo/screening" title="0 Photos in screening">
+          <i class="fa fa-hourglass-half">
+          </i>
+          0
+         </a>
+        </h4>
+       </div>
+       <div class="flex-column stats-box text-center">
+        <h4>
+         <a data-toggle="tooltip" href="/member/photo/stats" title="0 Total Views">
+          <i class="mi mi-remove_red_eye">
+          </i>
+          0
+         </a>
+        </h4>
+       </div>
+       <div class="flex-column stats-box text-center">
+        <h4>
+         <a data-toggle="tooltip" href="/photos/gallery/HalaMadrid?special=favorited" title="0 Photo Favorites">
+          <i class="fa fa-star-o">
+          </i>
+          0
+         </a>
+        </h4>
+       </div>
+       <div class="flex-column">
+        <a class="btn btn-flat-default-new btn-md" href="/member/photo/stats">
+         <i class="fa fa-bar-chart">
+         </i>
+         Photo Stats
+        </a>
+       </div>
+      </div>
+      <div class="margin-20">
+       <h6 class="heading-new-muted text-uppercase">
+        Upload &amp; Screening
+       </h6>
+       <table class="table-light">
+        <tr>
+         <td width="30%">
+          <a class="btn btn-flat-default-new btn-md btn-display-block" href="/photo/upload">
+           <i class="fa fa-plus">
+           </i>
+           Upload Photos
+          </a>
+         </td>
+         <td>
+          Upload new photos
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a class="btn btn-flat-default-new btn-md btn-display-block" href="/member/photo/screening">
+           <i class="fa fa-info-circle">
+           </i>
+           Screening Info
+          </a>
+         </td>
+         <td>
+          Follow along with the screening progress and check screening results.
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a class="btn btn-flat-default-new btn-md btn-display-block" href="/photo/reupload">
+           <i class="fa fa-repeat">
+           </i>
+           Re-Upload Photos
+          </a>
+         </td>
+         <td>
+          Re-upload better versions of already accepted photos
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div class="margin-20">
+       <h6 class="heading-new-muted text-uppercase">
+        Manage Photos
+       </h6>
+       <table class="table-light">
+        <tr>
+         <td width="30%">
+          <a class="btn btn-flat-default-new btn-md btn-display-block" href="/photos/gallery/HalaMadrid?watermark=0">
+           <i class="fa fa-search">
+           </i>
+           Watermark
+          </a>
+         </td>
+         <td>
+          Find photos without watermark
+         </td>
+        </tr>
+        <tr>
+         <td width="30%">
+          <a class="btn btn-flat-default-new btn-md btn-display-block" href="/photos/favorites">
+           <i class="fa fa-star-o">
+           </i>
+           My Favorites
+          </a>
+         </td>
+         <td>
+          Show and manage my favorites
+         </td>
+        </tr>
+       </table>
+      </div>
+     </div>
+    </div>
+   </div>
+  </main>
+  <footer class="page__footer">
+   <div class="container950">
+    <div class="grid-4">
+     <div>
+      <h6>
+       <a href="/">
+        Home
+       </a>
+      </h6>
+      <h6>
+       <a href="/about">
+        About
+       </a>
+      </h6>
+      <ul class="list-unstyled">
+       <li>
+        <a href="/about">
+         About Us
+        </a>
+       </li>
+       <li>
+        <a href="/help/contact">
+         Contact
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div>
+      <h6>
+       Aircraft
+      </h6>
+      <ul class="list-unstyled">
+       <li>
+        <a href="/production-list/index">
+         Production Lists
+        </a>
+       </li>
+       <li>
+        <a href="/deliveries">
+         Deliveries
+        </a>
+       </li>
+      </ul>
+      <h6 class="margin-top-20">
+       Airlines
+      </h6>
+      <ul class="list-unstyled">
+       <li>
+        <a href="/airlines">
+         Index
+        </a>
+       </li>
+       <li>
+        <a href="/airlines/country">
+         Country List
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div>
+      <h6>
+       Photos
+      </h6>
+      <ul class="list-unstyled">
+       <li>
+        <a href="/photos/latest">
+         Latest Additions
+        </a>
+       </li>
+       <li>
+        <a href="/photos/top/24hrs">
+         Most Popular Last 24hrs
+        </a>
+       </li>
+       <li>
+        <a href="/photos/editorsChoice">
+         Editor's Choice
+        </a>
+       </li>
+       <li>
+        <a href="/photo/upload">
+         Upload Your Photos
+        </a>
+       </li>
+      </ul>
+      <h6 class="margin-top-20">
+       <a href="/photo/api">
+        Photo API
+       </a>
+      </h6>
+     </div>
+     <div>
+      <h6>
+       Legal
+      </h6>
+      <ul class="list-unstyled">
+       <li>
+        <a href="/legal/termsofuse">
+         Terms of Use
+        </a>
+       </li>
+       <li>
+        <a href="/legal/privacypolicy">
+         Privacy Policy
+        </a>
+       </li>
+       <li>
+        <a href="/legal/cookiepolicy">
+         Cookie Policy
+        </a>
+       </li>
+       <li>
+        <a class="" href="javascript:void(0);" onclick="window.yieldlove_cmp.loadPrivacyManager();">
+         Privacy Manager
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="margin-top-20">
+     <h6>
+      <a href="/photos/latest">
+       Latest Photos
+      </a>
+     </h6>
+     <div class="photo_large__nav_list flex-row flex-left">
+      <a class="photo_large__nav_list_item" href="/photo/1386494/ec-nlp-iberia-airbus-a350-941?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=0">
+       <img alt="EC-NLP | Iberia | Airbus A350-941" src="https://t.plnspttrs.net/40952/1386494_81d6f64d32_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386493/ec-izr-iberia-airbus-a320-214?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=1">
+       <img alt="EC-IZR | Iberia | Airbus A320-214" src="https://t.plnspttrs.net/40619/1386493_d4667defd7_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386492/ec-nzg-air-europa-boeing-787-8-dreamliner?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=2">
+       <img alt="EC-NZG | Air Europa | Boeing 787-8 Dreamliner" src="https://t.plnspttrs.net/34559/1386492_800060d440_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386491/n14219-united-airlines-boeing-737-824wl?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=3">
+       <img alt="N14219 | United Airlines | Boeing 737-824(WL)" src="https://t.plnspttrs.net/40595/1386491_7311604521_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386490/n213pa-pan-am-airbus-a300b4-203?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=4">
+       <img alt="N213PA | Pan Am | Airbus A300B4-203" src="https://t.plnspttrs.net/31676/1386490_df8061ea96_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386489/n872aa-american-airlines-boeing-727-223a?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=5">
+       <img alt="N872AA | American Airlines | Boeing 727-223(A)" src="https://t.plnspttrs.net/11684/1386489_f056471349_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386488/hz-aq12-saudi-arabian-airlines-airbus-a330-343?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=6">
+       <img alt="HZ-AQ12 | Saudi Arabian Airlines | Airbus A330-343" src="https://t.plnspttrs.net/36513/1386488_0b0c0c6856_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386487/ec-mns-air-europa-boeing-787-8-dreamliner?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=7">
+       <img alt="EC-MNS | Air Europa | Boeing 787-8 Dreamliner" src="https://t.plnspttrs.net/38995/1386487_64554ed10f_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386486/sx-naa-aegean-airlines-airbus-a321-271nx?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=8">
+       <img alt="SX-NAA | Aegean Airlines | Airbus A321-271NX" src="https://t.plnspttrs.net/38117/1386486_4ccd24413d_t.jpg"/>
+      </a>
+      <a class="photo_large__nav_list_item" href="/photo/1386485/oe-xhz-eurocopter-ec-135-t1-wucher-helicopter?sid=848394cafa4faca1bdd15f73c94a0b88&amp;sc=9">
+       <img alt="OE-XHZ | Eurocopter EC-135 T1 | Wucher Helicopter" src="https://t.plnspttrs.net/37977/1386485_8f2e19126e_t.jpg"/>
+      </a>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <footer class="page__footer page__footer_copyright">
+   <div class="container950 text-center">
+    <p>
+     © Planespotters.net 2023. All rights reserved.
+    </p>
+   </div>
+  </footer>
+  <div class="loading-modal">
+   Loading
+  </div>
+  <script>
+   var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(["setExcludedQueryParams", ["p","sort","dir"]]);
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+                var u="//stats.planespotters.net/";
+                _paq.push(['setTrackerUrl', u+'matomo.php']);
+                _paq.push(['setSiteId', '1']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+  </script>
+  <script>
+  </script>
+  <script>
+  </script>
+ </body>
+</html>
+All cookies
+{'__psuid': '0034dc60615dbeab9c8fe7be24289523', 'ps_sessid': 'p7qJCVZr8qGwiO5GogMGYykybu'}
+True (Login Successful)
+shaolongxue@Shaolongs-MacBook-Pro ~ % /usr/local/bin/python3 /Users/shaolongxue/Documents/MSBA/2_Winter_Quarter/422_DDR/Assignment_4/part1_source.py
